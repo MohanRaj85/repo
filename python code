@@ -2,7 +2,7 @@ print("Hello World!")
 print("Its me")
 
 for i in ("Hunter!"):
-    print(i)
+    print(i,end="")
 
 import getpass
 
