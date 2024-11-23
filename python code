@@ -6,5 +6,5 @@ for i in range(10):
 
 import getpass
 
-password = getpass.getpass(input("Enter Your Password: "))
-print(getpass.password)
+password = getpass.getpass("Enter Your Password: ")
+print("Enter Password",password)
