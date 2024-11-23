@@ -1,7 +1,7 @@
 print("Hello World!")
 print("Its me")
 
-for i in range("Hunter!"):
+for i in ("Hunter!"):
     print(i)
 
 import getpass
