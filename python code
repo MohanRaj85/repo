@@ -3,3 +3,8 @@ print("Its me")
 
 for i in range(10):
     print(i)
+
+import getpass
+
+password = getpass.getpass(input("Enter Your Password: "))
+print(getpass.password)
